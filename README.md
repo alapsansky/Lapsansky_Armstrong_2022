@@ -33,6 +33,11 @@ Please let me know if you have trouble downloading the video. It seems to functi
 
 
 
+
+### License
+
+
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
