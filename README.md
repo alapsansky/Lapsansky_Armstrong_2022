@@ -1,10 +1,10 @@
 # Lapsansky_Armstrong_2022
 
 
+### WARINING: This work is currently in review at Marine Ornithology and should considered preliminary until this warning is removed and replaced.
 
-### A repository for data related to Lapsansky & Armstrong (2022) in Marine Ornithology
 
-
+A repository for data related to Lapsansky & Armstrong (2022) in Marine Ornithology
 
 
 ![alt text](https://github.com/alapsansky/Lapsansky_Armstrong_2022/blob/main/LapsanskyArmstrong2022_Figure1.png)
