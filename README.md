@@ -26,6 +26,10 @@ To view the digitized points and the identities of the digitized birds, one can 
 The description of the speed analysis are included in the MATLAB script.
 
 
+### Downloading the video
+
+
+Please let me know if you have trouble downloading the video. It seems to function properly with Chrome and Edge browsers, but not my Firefox for some reason. If you get an error, try switching browsers.
 
 
 
