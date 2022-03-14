@@ -20,7 +20,7 @@ A repository for data related to Lapsansky & Armstrong (2022) in Marine Ornithol
 This repository contains the digitized points ("points" folder), MATLAB code files, raw figure, and the supplemental video related to the paper. 
 
 
-To view the digitized points and the identities of the digitized birds, one can use the DLTdv digitizing tool in MATLAB  (https://biomech.web.unc.edu/dltdv/). After installing the tool, the project can be loaded from the included video and by loading the files in "points" as a new video.
+To view the digitized points and the identities of the digitized birds, one can use the DLTdv digitizing tool in MATLAB  (https://biomech.web.unc.edu/dltdv/). After installing the tool, the project can be loaded by selecting "New Project", followed by the included video and the files in "points" folder.
 
 
 The description of the speed analysis are included in the MATLAB script.
@@ -29,7 +29,7 @@ The description of the speed analysis are included in the MATLAB script.
 ### Downloading the video
 
 
-Please let me know if you have trouble downloading the video. It seems to function properly with Chrome and Edge browsers, but not my Firefox for some reason. If you get an error, try switching browsers.
+Please let me know if you have trouble downloading the video. It seems to function properly with Chrome and Edge browsers, but not my Firefox for some reason. If you get an error, try switching browsers. The video is also available on request.
 
 
 
