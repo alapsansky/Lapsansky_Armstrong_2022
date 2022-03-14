@@ -5,7 +5,7 @@
 
 
 
-![alt text](https://github.com/alapsansky/Lapsansky_Armstrong_2022/blob/main/LapsanskyArmstrong2022_Figure1.png)
+![Gif](https://github.com/alapsansky/Lapsansky_Armstrong_2022/blob/main/LapsanskyArmstrong_2022.gif)
 
 
 
@@ -24,6 +24,11 @@ To view the digitized points and the identities of the digitized birds, one can 
 
 
 The description of the speed analysis are included in the MATLAB script.
+
+
+
+![Video](https://github.com/alapsansky/Lapsansky_Armstrong_2022/blob/main/LapsanskyArmstrong2022_Figure1.png)
+
 
 
 ### Downloading the video
