@@ -1,4 +1,4 @@
-# Lapsansky_Armstrong_2022
+# Lapsansky & Armstrong (2022)
 
 
 ### WARINING: This work is currently in review at Marine Ornithology and should considered preliminary until this warning is removed and replaced.
