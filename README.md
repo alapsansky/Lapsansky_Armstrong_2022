@@ -1,7 +1,15 @@
 # Lapsansky & Armstrong (2022)
 
 
+
 ### WARINING: This work is currently in review at [Marine Ornithology](https://www.marineornithology.org/) and should considered preliminary until this warning is removed and replaced.
+
+
+
+
+This repository contains the digitized points ("points" folder), MATLAB code files, raw figure, and the supplemental video related to the paper. 
+
+
 
 
 ### Abstract:
@@ -23,7 +31,6 @@ A repository for data related to Lapsansky & Armstrong (2022) in Marine Ornithol
 ### Navigating the data
 
 
-This repository contains the digitized points ("points" folder), MATLAB code files, raw figure, and the supplemental video related to the paper. 
 
 
 To view the digitized points and the identities of the digitized birds, one can use the DLTdv digitizing tool in MATLAB  (https://biomech.web.unc.edu/dltdv/). After installing the tool, the project can be loaded by selecting "New Project", followed by the included video and the files in "points" folder.
