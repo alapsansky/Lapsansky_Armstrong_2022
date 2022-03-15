@@ -7,7 +7,7 @@
 ### Abstract:
 
 
-Common Mergansers Mergus merganser dive into lakes, rivers, and coastal waters to feed on fish and other aquatic prey. This species, and others in the genus Mergus, are traditionally classified as foot-propelled divers. When submerged, mergansers are expected to swim by kicking their feet, holding their wings close to their bodies. Here, we report, with video evidence, an event in which four mergansers used their wings underwater to chase down and capture a large fish. Documentation of wing use in this classically defined “foot-propelled diver” illustrates the gaps in our understanding of avian diving physiology, hydrodynamics, and behavior. 
+Common Mergansers *Mergus merganser* dive into lakes, rivers, and coastal waters to feed on fish and other aquatic prey. This species, and others in the genus Mergus, are traditionally classified as foot-propelled divers. When submerged, mergansers are expected to swim by kicking their feet, holding their wings close to their bodies. Here, we report, with video evidence, an event in which four mergansers used their wings underwater to chase down and capture a large fish. Documentation of wing use in this classically defined “foot-propelled diver” illustrates the gaps in our understanding of avian diving physiology, hydrodynamics, and behavior. 
 
 
 
