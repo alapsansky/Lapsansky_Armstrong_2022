@@ -1,15 +1,4 @@
-# Lapsansky & Armstrong (2022)
-
-
-
-### WARINING: This work is currently in review at [Marine Ornithology](https://www.marineornithology.org/) and should considered preliminary until this warning is removed and replaced.
-
-
-
-
-This repository contains the digitized points ("points" folder), MATLAB code files, raw figure, and the supplemental video related to the paper. 
-
-
+# Lapsansky & Armstrong (2022) - *Accepted* at [Marine Ornithology](https://www.marineornithology.org/)
 
 
 ### Abstract:
@@ -23,8 +12,7 @@ Common Mergansers *Mergus merganser* dive into lakes, rivers, and coastal waters
 
 
 
-A repository for data related to Lapsansky & Armstrong (2022) in Marine Ornithology
-
+This repository contains the digitized points ("points" folder), MATLAB code files, raw figure, and the supplemental video related to the paper. 
 
 
 
