@@ -1,4 +1,4 @@
-# Lapsansky & Armstrong (2022) - *Accepted* at [Marine Ornithology](https://www.marineornithology.org/)
+# Lapsansky & Armstrong (2022) - *Published* in [Marine Ornithology](http://www.marineornithology.org/content/get.cgi?rn=1475)
 
 
 ### Abstract:
@@ -28,7 +28,7 @@ The description of the speed analysis are included in the MATLAB script.
 
 
 
-![Video](https://github.com/alapsansky/Lapsansky_Armstrong_2022/blob/main/LapsanskyArmstrong2022_Figure1.png)
+![Image](https://github.com/alapsansky/Lapsansky_Armstrong_2022/blob/main/LapsanskyArmstrong2022_Figure1.png)
 
 
 
